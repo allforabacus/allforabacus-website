@@ -1,0 +1,739 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Views\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-05 18:30+0800\n"
+"PO-Revision-Date: 2011-04-05 18:31+0800\n"
+"Last-Translator: Juan Diego Gonzalez <jd.glezga@gmail.com>\n"
+"Language-Team: Suny Tse <message@ziming.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: D:\\SVN\\Project\\wordpress\\opensource\\submit-to-wordpress_org\\plugins\\post-views\\trunk\n"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:73
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1707
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1708
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1796
+msgid "Post Views"
+msgstr "日志浏览分析"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:353
+msgid "right now"
+msgstr "此刻"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:357
+msgid "second ago"
+msgstr "秒之前"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:359
+msgid "seconds ago"
+msgstr "秒之前"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:365
+msgid "minute ago"
+msgstr "分钟之前"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:367
+msgid "minutes ago"
+msgstr "分钟之前"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:373
+msgid "hour ago"
+msgstr "小时之前"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:375
+msgid "hours ago"
+msgstr "小时之前"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:381
+msgid "day ago"
+msgstr "天之前"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:383
+msgid "days ago"
+msgstr "天之前"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:389
+msgid "week ago"
+msgstr "周之前"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:391
+msgid "weeks ago"
+msgstr "周之前"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:396
+msgid "month ago"
+msgstr "月之前"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:398
+msgid "months ago"
+msgstr "月之前"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:562
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:566
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:834
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1002
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1116
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1222
+msgid "Summary"
+msgstr "摘要"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:565
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:830
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:833
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1001
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1115
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1221
+msgid "Analytics"
+msgstr "分析"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:567
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:835
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1003
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1112
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1117
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1223
+msgid "Ranking List"
+msgstr "排行表"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:595
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:886
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1132
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1252
+msgid "Visitor"
+msgstr "访客"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:596
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:887
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1133
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1253
+msgid "Robot"
+msgstr "搜索引擎"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:599
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:890
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1141
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1256
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1855
+msgid "Read"
+msgstr "阅读"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:600
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:891
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1142
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1257
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1856
+msgid "Preview"
+msgstr "预览"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:603
+msgid "Viewed Coverage"
+msgstr "浏览覆盖率"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:604
+msgid "Viewed Trend"
+msgstr "浏览量趋势"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:606
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1150
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1259
+msgid "Switch"
+msgstr "切换"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:642
+msgid "Today Viewed Coverage"
+msgstr "本日浏览覆盖率"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:643
+msgid "Today Viewed Coverage Trend (%)"
+msgstr "本日浏览覆盖率趋势图"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:653
+msgid "Week Viewed Coverage"
+msgstr "本周浏览覆盖率"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:654
+msgid "Week Viewed Coverage Trend (%)"
+msgstr "本周浏览覆盖率趋势图"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:662
+msgid "Month Viewed Coverage"
+msgstr "本月浏览覆盖率"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:663
+msgid "Month Viewed Coverage Trend (%)"
+msgstr "本月浏览覆盖率趋势图"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:673
+msgid "Half Year Viewed Coverage"
+msgstr "半年浏览覆盖率"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:674
+msgid "Year Viewed Coverage"
+msgstr "本年浏览覆盖率"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:675
+msgid "Total Viewed Coverage"
+msgstr "总浏览覆盖率"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:676
+msgid "Total Viewed Summary"
+msgstr "总浏览数摘要"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:709
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1281
+msgid "Today Views Trend"
+msgstr "每日浏览趋势"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:718
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1290
+msgid "Week Views Trend"
+msgstr "本周浏览趋势"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:727
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1299
+msgid "Month Views Trend"
+msgstr "本月浏览趋势"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:735
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1307
+msgid "Half Year Views Trend"
+msgstr "半年浏览趋势"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:736
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1308
+msgid "Year Views Trend"
+msgstr "本年浏览趋势"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:836
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:998
+msgid "Options"
+msgstr "选项"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:847
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1128
+msgid "View all categories"
+msgstr "显示所有目录"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:858
+msgid "Show all dates"
+msgstr "显示所有日期"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:876
+msgid "Order by Last Viewed"
+msgstr "按浏览时间降序"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:877
+msgid "Order by Post ID"
+msgstr "按日志编号排序"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:878
+msgid "Order by Today"
+msgstr "按今日降序"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:879
+msgid "Order by Week"
+msgstr "按本周降序"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:880
+msgid "Order by Month"
+msgstr "按本月降序"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:881
+msgid "Order by Half Year"
+msgstr "按半年降序"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:882
+msgid "Order by Year"
+msgstr "按今年降序"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:883
+msgid "Order by Total"
+msgstr "按总数降序"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:894
+msgid "Filter"
+msgstr "过滤"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:897
+msgid "Search"
+msgstr "搜索"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:900
+msgid "List View"
+msgstr "列表显示"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:901
+msgid "Trend View"
+msgstr "趋势图"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:909
+msgid "ID"
+msgstr "编号"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:910
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1809
+msgid "Title"
+msgstr "标题"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:911
+msgid "Last Viewed Time"
+msgstr "最近浏览"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:912
+msgid "Today"
+msgstr "今日"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:913
+msgid "Week"
+msgstr "本周"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:914
+msgid "Month"
+msgstr "本月"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:915
+msgid "Half Year "
+msgstr "半年"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:916
+msgid "Year"
+msgstr "年浏览量"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:917
+msgid "Total"
+msgstr "总浏览量"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:971
+msgid "First"
+msgstr "第一页"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:972
+msgid "PrePage"
+msgstr "上一页"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:973
+msgid "Current"
+msgstr "当前页"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:981
+msgid "NextPage"
+msgstr "上一页"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:983
+msgid "Last"
+msgstr "最后一页"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1018
+msgid "Setting Updated..."
+msgstr "设置已更新"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1029
+msgid "Default setting loaded..."
+msgstr "成功载入默认设置..."
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1036
+msgid "Logging include :"
+msgstr "只记录："
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1038
+msgid "Everyone"
+msgstr "所有人"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1039
+msgid "Guests Only"
+msgstr "游客"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1040
+msgid "Registered Users Only"
+msgstr "注册用户"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1044
+msgid "Use Cookie :"
+msgstr "使用Cookie："
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1046
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1055
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1060
+msgid "Not"
+msgstr "否"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1047
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1056
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1061
+msgid "Yes"
+msgstr "是"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1049
+msgid "Cookie Timeout :"
+msgstr "Cookie过期时间："
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1050
+msgid "minutes"
+msgstr "分钟"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1053
+msgid "Using Cache Plugin? "
+msgstr "正在使用缓存插件？"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1058
+msgid "Show real time post views? "
+msgstr "显示实时浏览数？"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1065
+msgid "Load Default"
+msgstr "载入默认"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1066
+msgid "Update Setting"
+msgstr "更新"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1137
+msgid "Most"
+msgstr "热门"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1138
+msgid "Least"
+msgstr "冷门"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1168
+msgid "By Total"
+msgstr "总浏览量"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1168
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1175
+msgid "Views"
+msgstr "浏览数"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1168
+msgid "By Year"
+msgstr "本年"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1168
+msgid "By Half Year"
+msgstr "本年"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1175
+msgid "By Month"
+msgstr "本月"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1175
+msgid "By Week"
+msgstr "本周"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1175
+msgid "By Today"
+msgstr "今日"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1812
+msgid "Statistics Type"
+msgstr "统计类型"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1814
+msgid "Least Viewed"
+msgstr "最少浏览"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1815
+msgid "Least Viewed By Tag"
+msgstr "最少浏览（按标签）"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1816
+msgid "Least Viewed By Category"
+msgstr "最少浏览（按分类）"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1818
+msgid "Most Viewed"
+msgstr "最多浏览"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1819
+msgid "Most Viewed By Tag"
+msgstr "最多浏览（按标签）"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1820
+msgid "Most Viewed By Category"
+msgstr "最多浏览（按分类）"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1822
+msgid "Latest Viewed"
+msgstr "最近浏览"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1823
+msgid "Latest Viewed By Tag"
+msgstr "最近浏览（按标签）"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1824
+msgid "Latest Viewed By Category"
+msgstr "最近浏览（按分类）"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1826
+msgid "Oldest Viewed"
+msgstr "最久未浏览"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1827
+msgid "Oldest Viewed By Tag"
+msgstr "最久未浏览（按标签）"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1828
+msgid "Oldest Viewed By Category"
+msgstr "最久未浏览（按分类）"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1833
+msgid "Time Span:"
+msgstr "时间跨度："
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1835
+msgid "By Today Views"
+msgstr "本日"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1836
+msgid "By Week Views"
+msgstr "本周"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1837
+msgid "By Month Views"
+msgstr "本月"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1838
+msgid "By Half Year Views"
+msgstr "半年"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1839
+msgid "By Year Views"
+msgstr "本年"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1840
+msgid "By Total Views"
+msgstr "总共"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1845
+msgid "View Type:"
+msgstr "浏览类型："
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1847
+msgid "Normal Visitor Viewed"
+msgstr "正常浏览"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1848
+msgid "Robot Viewed"
+msgstr "搜索引擎"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1853
+msgid "Output Type:"
+msgstr "输出类型"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1861
+msgid "Include Views From:"
+msgstr "日志来自："
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1863
+msgid "All Types"
+msgstr "所有类型"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1864
+msgid "Post"
+msgstr "日志"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1865
+msgid "Page"
+msgstr "文章页"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1876
+msgid "Records To Show:"
+msgstr "显示条数："
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1879
+msgid "Maximum Title Length:"
+msgstr "标题显示长度"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1880
+msgid "<strong>0</strong> to disable."
+msgstr "0为不截断"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1883
+msgid "Category / Tag IDs:"
+msgstr "分类或标签ID："
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1884
+msgid "Seperate mutiple categories/tags with commas, positive to include and '-' to exlude(if not using '* by category/tag' ignore it)."
+msgstr "用英文逗号分割，正数表示包含，'-'表示排除(如果不使用分类或标签则此处可忽略)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:2080
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:2086
+msgid "Never"
+msgstr "从未"
+
+#~ msgid "Content"
+#~ msgstr "内容"
+
+#~ msgid "Excerpt"
+#~ msgstr "摘要"
+
+#~ msgid "Other"
+#~ msgstr "其它"
+
+#~ msgid "Robot Views"
+#~ msgstr "搜索引擎"
+
+#~ msgid "Normal Views"
+#~ msgstr "访客浏览"
+
+#~ msgid "Setting"
+#~ msgstr "设置"
+
+#~ msgid "Logging"
+#~ msgstr "记录设置"
+
+#~ msgid "Today Views Coverage"
+#~ msgstr "本日浏览覆盖率"
+
+#~ msgid "Week Views Coverage"
+#~ msgstr "本周浏览覆盖率"
+
+#~ msgid "Month Views Coverage"
+#~ msgstr "本月浏览覆盖率"
+
+#~ msgid "Half Year Views Coverage"
+#~ msgstr "半年浏览覆盖率"
+
+#~ msgid "Year Views Coverage"
+#~ msgstr "本年浏览覆盖率"
+
+#~ msgid "Total Views Coverage"
+#~ msgstr "总浏览覆盖率"
+
+#~ msgid "Total Views Summary"
+#~ msgstr "总浏览数摘要"
+
+#~ msgid "Last Viewed"
+#~ msgstr "最近浏览"
+
+#~ msgid "Dashboard Ranking List Options :"
+#~ msgstr "后台排行参数设置："
+
+#~ msgid "Ranking List Number :"
+#~ msgstr "排行显示条数："
+
+#~ msgid "Post Types :"
+#~ msgstr "日志类型"
+
+#~ msgid "By Category / Tag :"
+#~ msgstr "按分类/标签："
+
+#~ msgid "Not Use"
+#~ msgstr "不使用"
+
+#~ msgid "By Category"
+#~ msgstr "按分类"
+
+#~ msgid "By Tag"
+#~ msgstr "按标签"
+
+#~ msgid "Post Views Logging Options :"
+#~ msgstr "Post Views 记录设置："
+
+#~ msgid "Most By Total"
+#~ msgstr "浏览总数最多"
+
+#~ msgid "Most By Year"
+#~ msgstr "本年最多"
+
+#~ msgid "Most By Half Year"
+#~ msgstr "本年最多"
+
+#~ msgid "Most By Month"
+#~ msgstr "本月最多"
+
+#~ msgid "Most By Week"
+#~ msgstr "本周最多"
+
+#~ msgid "Most By Today"
+#~ msgstr "今日最多"
+
+#~ msgid "Least By Total"
+#~ msgstr "总数最少"
+
+#~ msgid "Least By Year"
+#~ msgstr "本年最少"
+
+#~ msgid "Least By Half Year"
+#~ msgstr "半年最少"
+
+#~ msgid "Least By Month"
+#~ msgstr "本月最少"
+
+#~ msgid "Least By Week"
+#~ msgstr "本周最少"
+
+#~ msgid "Least By Today"
+#~ msgstr "今日最少"
+
+#~ msgid "Hasn't been indexed before."
+#~ msgstr "未被索引过"
+
+#~ msgid "Hasn't been viewed before."
+#~ msgstr "未被访问过"
+
+#~ msgid "Include Post/Page :"
+#~ msgstr "排行显示条数："
+
+#~ msgid "Both"
+#~ msgstr "所有"
+
+#~ msgid "Post Only"
+#~ msgstr "日志"
+
+#~ msgid "Page Only"
+#~ msgstr "文章"
+
+#~ msgid "Posts &amp; Pages"
+#~ msgstr "日志和文章"
+
+#~ msgid "Posts Only"
+#~ msgstr "日志"
+
+#~ msgid "Pages Only"
+#~ msgstr "文章"
+
+#, fuzzy
+#~ msgid "Posts"
+#~ msgstr "日志浏览数统计"
+
+#, fuzzy
+#~ msgid "Pages"
+#~ msgstr "上一页"
+
+#~ msgid "Recording"
+#~ msgstr "记录设置"
+
+#~ msgid "Title:"
+#~ msgstr "标题："
+
+#~ msgid "Ranking list"
+#~ msgstr "排行表"
+
+#~ msgid "Normal Views Ranking List"
+#~ msgstr "浏览次数排行"
+
+#~ msgid "Robot Views Ranking List"
+#~ msgstr "索引次数排行"
+
+#~ msgid "Visit Time Ranking List"
+#~ msgstr "访问时间排行"
+
+#~ msgid "Visit Time"
+#~ msgstr "浏览时间"
+
+#~ msgid "Latest Robot Views"
+#~ msgstr "最近被索引"
+
+#~ msgid "Oldest Normal Views"
+#~ msgstr "最久未被浏览"
+
+#~ msgid "Oldest Robot Views"
+#~ msgstr "最久未被索引"

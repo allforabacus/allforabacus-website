@@ -1,0 +1,310 @@
+<!DOCTYPE HTML>
+<!--[if IE 7 ]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html> <!--<![endif]-->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<title>ABACUS</title>
+    	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+	<script>
+		!window.jQuery && document.write('<script src="js/jquery-1.4.3.min.js"><\/script>');
+	</script>
+	<script type="text/javascript" src="./fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+	<script type="text/javascript" src="./fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+	<link rel="stylesheet" type="text/css" href="./fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+ 	<link rel="stylesheet" href="style.css" />
+	<script type="text/javascript">
+		$(document).ready(function() {
+			/*
+			*   Examples - images
+			*/
+
+			$("a#example1").fancybox();
+
+			$("a#example2").fancybox({
+				'overlayShow'	: false,
+				'transitionIn'	: 'elastic',
+				'transitionOut'	: 'elastic'
+			});
+
+			$("a#example3").fancybox({
+				'transitionIn'	: 'none',
+				'transitionOut'	: 'none'	
+			});
+
+			$("a#example4").fancybox({
+				'opacity'		: true,
+				'overlayShow'	: false,
+				'transitionIn'	: 'elastic',
+				'transitionOut'	: 'none'
+			});
+
+			$("a#example5").fancybox();
+
+			$("a#example6").fancybox({
+				'titlePosition'		: 'outside',
+				'overlayColor'		: '#000',
+				'overlayOpacity'	: 0.9
+			});
+
+			$("a#example7").fancybox({
+				'titlePosition'	: 'inside'
+			});
+
+			$("a#example8").fancybox({
+				'titlePosition'	: 'over'
+			});
+
+			$("a[rel=example_group]").fancybox({
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none',
+				'titlePosition' 	: 'over',
+				'titleFormat'		: function(title, currentArray, currentIndex, currentOpts) {
+					return '<span id="fancybox-title-over">Image ' + (currentIndex + 1) + ' / ' + currentArray.length + (title.length ? ' &nbsp; ' + title : '') + '</span>';
+				}
+			});
+
+			/*
+			*   Examples - various
+			*/
+
+			$("#various1").fancybox({
+				'titlePosition'		: 'inside',
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none'
+			});
+
+			$("#various2").fancybox();
+
+			$("#various3").fancybox({
+				'width'				: '75%',
+				'height'			: '75%',
+				'autoScale'			: false,
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none',
+				'type'				: 'iframe'
+			});
+
+			$("#various4").fancybox({
+				'padding'			: 0,
+				'autoScale'			: false,
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none'
+			});
+		});
+		
+
+
+
+	</script>
+</head>
+
+<body>
+	<header>
+    	<div class="wrapper960">
+        	<div class="logo"><a href="index.html"><img src="images/abacus logo.png" width="36" height="32" align="left"/><img src="images/academy.png" align="left" style="padding-top:5px; padding-left:5px"></a></div>
+        	<nav>
+        		<a href="index.html">Home</a>
+            	<a href="ourteam.html">Our Team</a>
+            	<a href="activities.html">Activities</a>
+            	<a href="gallery.html" style="color:#205081">Gallery</a>
+            	<a href="helpdesk.html">Help Desk</a>
+            	<a href="contact.html">Contact</a>
+                <a href="http://blog.allforabacus.com/" style="color:#FF6600" title="Our Blog">Blog</a>
+        	</nav>
+        </div>
+    </header>
+
+	<div class="wrapper960">
+		<div id="gallery">
+			<div class="gallery-list" style="height:1440px">
+				<p style="font-size:18px; margin-top:15px; padding-left:30px; color:#666666">Show-off Abacus</p>
+					<div class="primary">
+						<ul class="folio-list">
+				
+							<li class="folio-thumb">
+								<div class="thumb">
+									<a rel="example_group" href="images/gallery/gallery/6 Workshop on Play! & beagleBone/1.jpg" title=""><img src="images/gallery/gallery/6 Workshop on Play! & beagleBone/thumbs/1.jpg" alt="" width="258" height="168" /></a>
+								</div>
+								<h3 class="entry-title"></h3>
+							</li>
+
+							<li class="folio-thumb">
+								<div class="thumb">
+									<a rel="example_group" href="images/gallery/gallery/6 Workshop on Play! & beagleBone/2.jpg" title=""><img src="images/gallery/gallery/6 Workshop on Play! & beagleBone/thumbs/2.jpg" alt="" width="258" height="168" /></a>
+								</div>
+								<h3 class="entry-title"></h3>
+							</li>
+
+							<li class="folio-thumb last">
+								<div class="thumb">
+									<a rel="example_group" href="images/gallery/gallery/6 Workshop on Play! & beagleBone/3.jpg" title=""><img src="images/gallery/gallery/6 Workshop on Play! & beagleBone/thumbs/3.jpg" alt="" width="258" height="168" /></a>
+								</div>
+								<h3 class="entry-title"></h3>
+							</li>
+							<li class="folio-thumb">
+								<div class="thumb">
+									<a rel="example_group" href="images/gallery/gallery/6 Workshop on Play! & beagleBone/4.jpg"><img src="images/gallery/gallery/6 Workshop on Play! & beagleBone/thumbs/4.jpg" alt="" width="258" height="168" /></a>
+								</div>
+								<h3 class="entry-title"></h3>
+							</li>
+
+							<li class="folio-thumb">
+								<div class="thumb">
+									<a rel="example_group" href="images/gallery/gallery/6 Workshop on Play! & beagleBone/5.jpg" title=""><img src="images/gallery/gallery/6 Workshop on Play! & beagleBone/thumbs/5.jpg" alt="" width="258" height="168" /></a>
+								</div>
+								<h3 class="entry-title"></h3>
+							</li>
+
+							<li class="folio-thumb last">
+								<div class="thumb">
+									<a rel="example_group" href="images/gallery/gallery/6 Workshop on Play! & beagleBone/6.jpg" title=""><img src="images/gallery/gallery/6 Workshop on Play! & beagleBone/thumbs/6.jpg" alt="" width="258" height="168" /></a>
+								</div>
+								<h3 class="entry-title"></h3>
+							</li>
+					
+							<li class="folio-thumb">
+								<div class="thumb">
+									<a rel="example_group" href="images/gallery/gallery/6 Workshop on Play! & beagleBone/7.jpg" title="!"><img src="images/gallery/gallery/6 Workshop on Play! & beagleBone/thumbs/7.jpg" alt="" width="258" height="168" /></a>
+								</div>
+								<h3 class="entry-title"></h3>
+							</li>
+
+							<li class="folio-thumb">
+								<div class="thumb">
+									<a rel="example_group" href="images/gallery/gallery/6 Workshop on Play! & beagleBone/8.jpg" title=""><img src="images/gallery/gallery/6 Workshop on Play! & beagleBone/thumbs/8.jpg" alt="" width="258" height="168" /></a>
+								</div>
+								<h3 class="entry-title"></h3>
+							</li>
+                            
+                            <li class="folio-thumb">
+								<div class="thumb">
+									<a rel="example_group" href="images/gallery/gallery/6 Workshop on Play! & beagleBone/9.jpg" title=""><img src="images/gallery/gallery/6 Workshop on Play! & beagleBone/thumbs/9.jpg" alt="" width="258" height="168" /></a>
+								</div>
+								<h3 class="entry-title"></h3>
+							</li>
+                            
+                            <li class="folio-thumb">
+								<div class="thumb">
+									<a rel="example_group" href="images/gallery/gallery/6 Workshop on Play! & beagleBone/10.jpg" title=""><img src="images/gallery/gallery/6 Workshop on Play! & beagleBone/thumbs/10.jpg" alt="" width="258" height="168" /></a>
+								</div>
+								<h3 class="entry-title"></h3>
+							</li>
+                            
+                            <li class="folio-thumb">
+								<div class="thumb">
+									<a rel="example_group" href="images/gallery/gallery/6 Workshop on Play! & beagleBone/11.jpg" title=""><img src="images/gallery/gallery/6 Workshop on Play! & beagleBone/thumbs/11.jpg" alt="" width="258" height="168" /></a>
+								</div>
+								<h3 class="entry-title"></h3>
+							</li>
+                            
+                            <li class="folio-thumb">
+								<div class="thumb">
+									<a rel="example_group" href="images/gallery/gallery/6 Workshop on Play! & beagleBone/12.jpg" title="s"><img src="images/gallery/gallery/6 Workshop on Play! & beagleBone/thumbs/12.jpg" alt="" width="258" height="168" /></a>
+								</div>
+								<h3 class="entry-title"></h3>
+							</li>
+                            
+                            <li class="folio-thumb">
+								<div class="thumb">
+									<a rel="example_group" href="images/gallery/gallery/6 Workshop on Play! & beagleBone/13.jpg" title=""><img src="images/gallery/gallery/6 Workshop on Play! & beagleBone/thumbs/13.jpg" alt="" width="258" height="168" /></a>
+								</div>
+								<h3 class="entry-title"></h3>
+							</li>
+                            
+                          
+						</ul>
+						<br />
+						<br />
+						
+					</div>
+                    <div id="gallerypost">
+							<div style="float:right; color:#205081; font-size:14px;">
+								<a href="http://blog.allforabacus.com/?p=115">Read Blog-post &gt;&gt;</a>
+							</div>
+							<div style="float:left; color:#205081;font-size:14px;">
+								<a href="gallery.html">&lt;&lt; Back to Gallery</a>
+							</div>
+					</div>
+			</div>
+		</div>
+	</div> 
+	
+	<footer>
+		<div class="footer-line1" >
+		</div>
+		<div class="footer-boxes">
+			<div id="pressFooter" class="rel_wrap" style="height:200px">
+                <div class="wrapper960">
+					<div class="logos">
+                    	<div class="col1">
+                        	<a href="helpdesk.html">
+                        	<div id="ico1" style="float:left"><img src="images/icon1.png" width="34" height="34"></div>
+                        	<div id="cont1" style="float:left">
+                        		 
+								<span class="icon1">Quick Links</span><br /><br /><hr/>
+								<p>NSS College of Engineering, Palakkad</p><hr />
+                                <p>allforabacus@googlegroups.com</p><hr/>
+                                <p>Blog.allforabacus.com</p><hr/>
+                                <p>&nbsp;</p>
+								<p><img src="images/view1.png" width="117" height="23"></p>
+                        	</div>
+                            </a>
+                        </div>
+                        
+						<div class="col2">
+                        	<a href="activities.html">
+                        	<div id="ico2" style="float:left"><img src="images/icon2.png" width="45" height="45"></div>
+                        	<div id="cont2" style="float:left">
+								<span class="icon2">Activities</span><br /><br /><hr/>
+								<p>Command line foo</p><hr />
+                                <p>webCon 2012!</p><hr/>
+                                <p>Workshop on Play! and beagleBone</p><hr/>
+                                <p>&nbsp;</p>
+                                <p>&nbsp;</p>
+                                <p><img src="images/view2.png" width="117" height="23"></p>
+                            </div>
+                            </a>
+						</div>
+						<div class="col3">
+                        	<a href="helpdesk.html">
+                        	<div id="ico3" style="float:left"><img src="images/icon3.png" width="34" height="34"></div>
+                        	<div id="cont3" style="float:left">
+								<span class="icon3"> Help Desk</span>
+								<p>&nbsp;</p>
+								<p>We share some files and links which may be useful to other students.</p>
+								<p>&nbsp;</p>
+								<p>&nbsp;</p>
+								<p><img src="images/view3.png" width="117" height="23"></p>
+							</div>
+                            </a>
+                        </div>
+                        <div class="col4">
+                        	<a href="contact.html">
+                        	<div id="ico4" style="float:left"><img src="images/icon4.png" width="33" height="33"></div>
+                        	<div id="cont4" style="float:left"><span class="icon4">Contact Us</span>
+							  <p>&nbsp;</p>
+							  <p>Say hi! We will hear &quot;ya&quot;!							  </p>
+							  <p>&nbsp;</p>
+							  <p>&nbsp;</p>
+							  <p>&nbsp;</p>
+								<p>&nbsp;</p>
+								<p><img src="images/view4.png" width="117" height="23"></p>
+							</div>
+                            </a>
+                        </div> 
+					</div>
+				</div>
+			</div>
+		</div>
+	
+		<div class="clear-line2">
+			<div class="wrapper960">
+                <p style="font-size:10px; float:left; padding-bottom:40px">© Copyright abacus_nssce 2012 </p>
+			</div>
+		</div>
+	</footer>
+</body>
+</html>

@@ -1,0 +1,707 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Views | V1.9.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-05 18:32+0800\n"
+"PO-Revision-Date: 2011-04-05 18:32+0800\n"
+"Last-Translator: Juan Diego Gonzalez <jd.glezga@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: SWITZERLAND\n"
+"X-Poedit-Bookmarks: 0,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-SearchPath-0: D:\\SVN\\Project\\wordpress\\opensource\\submit-to-wordpress_org\\plugins\\post-views\\trunk\n"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:73
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1707
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1708
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1796
+msgid "Post Views"
+msgstr "Post Views"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:353
+msgid "right now"
+msgstr "im Augenblick"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:357
+msgid "second ago"
+msgstr "Sekunde vergangen"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:359
+msgid "seconds ago"
+msgstr "Sekunden vergangen"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:365
+msgid "minute ago"
+msgstr "Minute vergangen"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:367
+msgid "minutes ago"
+msgstr "Minuten vergangen"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:373
+msgid "hour ago"
+msgstr "Stunde vergangen"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:375
+msgid "hours ago"
+msgstr "Stunden vergangen"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:381
+msgid "day ago"
+msgstr "Tag vergangen"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:383
+msgid "days ago"
+msgstr "Tage vergangen"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:389
+msgid "week ago"
+msgstr "Woche vergangen"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:391
+msgid "weeks ago"
+msgstr "Wochen vergangen"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:396
+msgid "month ago"
+msgstr "Monat vergangen"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:398
+msgid "months ago"
+msgstr "Monate vergangen"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:562
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:566
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:834
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1002
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1116
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1222
+msgid "Summary"
+msgstr "Zusammenfassung"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:565
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:830
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:833
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1001
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1115
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1221
+msgid "Analytics"
+msgstr "Analytik"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:567
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:835
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1003
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1112
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1117
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1223
+msgid "Ranking List"
+msgstr "Rangliste"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:595
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:886
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1132
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1252
+msgid "Visitor"
+msgstr ""
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:596
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:887
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1133
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1253
+#, fuzzy
+msgid "Robot"
+msgstr "Suchmaschinen Ansicht"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:599
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:890
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1141
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1256
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1855
+msgid "Read"
+msgstr ""
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:600
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:891
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1142
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1257
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1856
+msgid "Preview"
+msgstr ""
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:603
+#, fuzzy
+msgid "Viewed Coverage"
+msgstr "Wöchentliche Ansichten (Reportage)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:604
+#, fuzzy
+msgid "Viewed Trend"
+msgstr "Wöchentliche Ansichten (Entwicklung)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:606
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1150
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1259
+msgid "Switch"
+msgstr ""
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:642
+#, fuzzy
+msgid "Today Viewed Coverage"
+msgstr "Tägliche Ansichten (Reportage)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:643
+#, fuzzy
+msgid "Today Viewed Coverage Trend (%)"
+msgstr "Tägliche Ansichten (Reportage)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:653
+#, fuzzy
+msgid "Week Viewed Coverage"
+msgstr "Wöchentliche Ansichten (Reportage)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:654
+#, fuzzy
+msgid "Week Viewed Coverage Trend (%)"
+msgstr "Wöchentliche Ansichten (Reportage)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:662
+#, fuzzy
+msgid "Month Viewed Coverage"
+msgstr "Monatliche Ansichten (Reportage)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:663
+#, fuzzy
+msgid "Month Viewed Coverage Trend (%)"
+msgstr "Monatliche Ansichten (Reportage)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:673
+#, fuzzy
+msgid "Half Year Viewed Coverage"
+msgstr "Halbjährliche Ansichten (Reportage)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:674
+#, fuzzy
+msgid "Year Viewed Coverage"
+msgstr "Jährliche Ansichten (Reportage)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:675
+#, fuzzy
+msgid "Total Viewed Coverage"
+msgstr "Total Ansichten (Reportage)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:676
+#, fuzzy
+msgid "Total Viewed Summary"
+msgstr "Total Ansichten (Zusammengefasst)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:709
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1281
+msgid "Today Views Trend"
+msgstr "Tägliche Ansichten (Entwicklung)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:718
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1290
+msgid "Week Views Trend"
+msgstr "Wöchentliche Ansichten (Entwicklung)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:727
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1299
+msgid "Month Views Trend"
+msgstr "Monatliche Ansichten (Entwicklung)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:735
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1307
+#, fuzzy
+msgid "Half Year Views Trend"
+msgstr "Halbjährliche Ansichten (Reportage)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:736
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1308
+#, fuzzy
+msgid "Year Views Trend"
+msgstr "Wöchentliche Ansichten (Entwicklung)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:836
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:998
+msgid "Options"
+msgstr "Optionen"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:847
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1128
+msgid "View all categories"
+msgstr "Alle Kategorien anzeigen"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:858
+msgid "Show all dates"
+msgstr "Alle Daten zeigen"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:876
+msgid "Order by Last Viewed"
+msgstr "Ordnen nach zuletzt gesehen"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:877
+msgid "Order by Post ID"
+msgstr "Ordnen nach Artikel-ID"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:878
+msgid "Order by Today"
+msgstr "Ordnen nach Tag"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:879
+msgid "Order by Week"
+msgstr "Ordnen nach Woche"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:880
+msgid "Order by Month"
+msgstr "Ordnen nach Monat"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:881
+msgid "Order by Half Year"
+msgstr "Ordnen nach Halbjahr"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:882
+msgid "Order by Year"
+msgstr "Ordnen nach Jahr"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:883
+msgid "Order by Total"
+msgstr "Ordnen nach Total"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:894
+msgid "Filter"
+msgstr "Filter"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:897
+msgid "Search"
+msgstr "Suche"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:900
+msgid "List View"
+msgstr "Listenansicht"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:901
+msgid "Trend View"
+msgstr "Ansicht Entwicklung"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:909
+msgid "ID"
+msgstr "ID"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:910
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1809
+msgid "Title"
+msgstr "Titel"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:911
+#, fuzzy
+msgid "Last Viewed Time"
+msgstr "Zuletzt gesehen"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:912
+msgid "Today"
+msgstr "Heute"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:913
+msgid "Week"
+msgstr "Woche"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:914
+msgid "Month"
+msgstr "Monat"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:915
+msgid "Half Year "
+msgstr "Halbjahr"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:916
+msgid "Year"
+msgstr "Jahr"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:917
+msgid "Total"
+msgstr "Total"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:971
+msgid "First"
+msgstr "Erste"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:972
+msgid "PrePage"
+msgstr "vorherige Seite"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:973
+msgid "Current"
+msgstr "Aktuell"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:981
+msgid "NextPage"
+msgstr "nächste Seite"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:983
+msgid "Last"
+msgstr "Letzte"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1018
+msgid "Setting Updated..."
+msgstr "Einstellungen aktualisiert ..."
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1029
+msgid "Default setting loaded..."
+msgstr "Standardeinstellungen geladen ..."
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1036
+msgid "Logging include :"
+msgstr "Protokollierung:"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1038
+msgid "Everyone"
+msgstr "Alle"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1039
+msgid "Guests Only"
+msgstr "Nur Gäste"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1040
+msgid "Registered Users Only"
+msgstr "Nur registrierte User"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1044
+msgid "Use Cookie :"
+msgstr "Cookies nutzen:"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1046
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1055
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1060
+msgid "Not"
+msgstr "Nein"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1047
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1056
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1061
+msgid "Yes"
+msgstr "Ja"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1049
+msgid "Cookie Timeout :"
+msgstr "Cookie Zeitüberschreitung:"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1050
+msgid "minutes"
+msgstr "Minuten"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1053
+msgid "Using Cache Plugin? "
+msgstr "Nutzung eines Cache Plugin?"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1058
+msgid "Show real time post views? "
+msgstr "Post Views in Echtzeit anzeigen?"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1065
+msgid "Load Default"
+msgstr "Standardeinstellungen"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1066
+msgid "Update Setting"
+msgstr "Änderungen übernehmen"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1137
+#, fuzzy
+msgid "Most"
+msgstr "Artikel"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1138
+#, fuzzy
+msgid "Least"
+msgstr "Letzte"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1168
+#, fuzzy
+msgid "By Total"
+msgstr "Total"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1168
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1175
+msgid "Views"
+msgstr "Gesehen"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1168
+#, fuzzy
+msgid "By Year"
+msgstr "Am meisten gesehen (Jährlich)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1168
+#, fuzzy
+msgid "By Half Year"
+msgstr "Am meisten gesehen (Halbjahr)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1175
+#, fuzzy
+msgid "By Month"
+msgstr "Monat"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1175
+#, fuzzy
+msgid "By Week"
+msgstr "Am meisten gesehen (Woche)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1175
+#, fuzzy
+msgid "By Today"
+msgstr "Heute"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1812
+msgid "Statistics Type"
+msgstr "Statistiktyp"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1814
+msgid "Least Viewed"
+msgstr "Wenigste"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1815
+msgid "Least Viewed By Tag"
+msgstr "Wenigste (Schlüsselwort)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1816
+msgid "Least Viewed By Category"
+msgstr "Wenigste (Kategorie)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1818
+msgid "Most Viewed"
+msgstr "Meiste"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1819
+msgid "Most Viewed By Tag"
+msgstr "Meiste (Schlüsselwort)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1820
+msgid "Most Viewed By Category"
+msgstr "Meiste (Kategorie)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1822
+msgid "Latest Viewed"
+msgstr "Letzte"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1823
+msgid "Latest Viewed By Tag"
+msgstr "Letzte (Schlüsselwort)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1824
+msgid "Latest Viewed By Category"
+msgstr "Letzte (Kategorie)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1826
+msgid "Oldest Viewed"
+msgstr "Älteste"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1827
+msgid "Oldest Viewed By Tag"
+msgstr "Älteste (Schlüsselwort)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1828
+msgid "Oldest Viewed By Category"
+msgstr "Älteste (Kategorie)"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1833
+msgid "Time Span:"
+msgstr "Zeitraum:"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1835
+msgid "By Today Views"
+msgstr "Täglich"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1836
+msgid "By Week Views"
+msgstr "Wöchentlich"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1837
+msgid "By Month Views"
+msgstr "Monatlich"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1838
+msgid "By Half Year Views"
+msgstr "Halbjährlich"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1839
+msgid "By Year Views"
+msgstr "Jährlich"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1840
+msgid "By Total Views"
+msgstr "Gesamt"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1845
+msgid "View Type:"
+msgstr "Ansichtstyp:"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1847
+msgid "Normal Visitor Viewed"
+msgstr "Nur Besucher"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1848
+msgid "Robot Viewed"
+msgstr "Nur Suchmaschinen"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1853
+msgid "Output Type:"
+msgstr "Ausgabetyp:"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1861
+msgid "Include Views From:"
+msgstr "Anzeige von:"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1863
+msgid "All Types"
+msgstr "Alle Typen"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1864
+msgid "Post"
+msgstr "Artikel"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1865
+msgid "Page"
+msgstr "Seite"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1876
+msgid "Records To Show:"
+msgstr "Anzahl Datensätze:"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1879
+msgid "Maximum Title Length:"
+msgstr "Maximale Titel Länge:"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1880
+msgid "<strong>0</strong> to disable."
+msgstr "<strong>0</strong> für keine Anpassung."
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1883
+msgid "Category / Tag IDs:"
+msgstr "Kategorie/Schlagwörter ID's:"
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:1884
+msgid "Seperate mutiple categories/tags with commas, positive to include and '-' to exlude(if not using '* by category/tag' ignore it)."
+msgstr "Mehrere Kategorien/Schlüsselwörter mit Komma trennen, Ausschluss mit negativem Vorzeichen. (Nur in Verwendung mit Statistiktyp Kategorie oder Schlüsselwort)."
+
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:2080
+#: D:\SVN\Project\wordpress\opensource\submit-to-wordpress_org\plugins\post-views\trunk/post-views.php:2086
+msgid "Never"
+msgstr ""
+
+#~ msgid "Content"
+#~ msgstr "Inhalt"
+
+#~ msgid "Excerpt"
+#~ msgstr "Ausschnitt"
+
+#~ msgid "Other"
+#~ msgstr "Andere"
+
+#~ msgid "Normal Views"
+#~ msgstr "Normale Ansicht"
+
+#~ msgid "Setting"
+#~ msgstr "Konfiguration"
+
+#~ msgid "Logging"
+#~ msgstr "Protokollierung"
+
+#~ msgid "Dashboard Ranking List Options :"
+#~ msgstr "Dashboard Rangliste Optionen:"
+
+#~ msgid "Ranking List Number :"
+#~ msgstr "Anzahl Datensätze:"
+
+#~ msgid "Post Types :"
+#~ msgstr "Artikel Typen:"
+
+#~ msgid "By Category / Tag :"
+#~ msgstr "Kategorie/Schlüsswörter:"
+
+#~ msgid "Not Use"
+#~ msgstr "Keine Verwendung"
+
+#~ msgid "By Category"
+#~ msgstr "Kategorie"
+
+#~ msgid "By Tag"
+#~ msgstr "Schlüsselwörter"
+
+#~ msgid "Post Views Logging Options :"
+#~ msgstr "Post Views Protokollierungs Optionen:"
+
+#~ msgid "Most By Total"
+#~ msgstr "Am meisten gesehen (Gesamt)"
+
+#~ msgid "Most By Month"
+#~ msgstr "Am meisten gesehen (Monat)"
+
+#~ msgid "Most By Today"
+#~ msgstr "Am meisten gesehen (Tag)"
+
+#~ msgid "Least By Total"
+#~ msgstr "Am wenigsten gesehen (Gesamt)"
+
+#~ msgid "Least By Year"
+#~ msgstr "Am wenigsten gesehen (Jahr)"
+
+#~ msgid "Least By Half Year"
+#~ msgstr "Am wenigsten gesehen (Halbjahr)"
+
+#~ msgid "Least By Month"
+#~ msgstr "Am wenigsten gesehen (Monat)"
+
+#~ msgid "Least By Week"
+#~ msgstr "Am wenigsten gesehen (Woche)"
+
+#~ msgid "Least By Today"
+#~ msgstr "Am wenigsten gesehen (Tag)"
+
+#~ msgid "Hasn't been indexed before."
+#~ msgstr "Wurde vorher nicht indiziert."
+
+#~ msgid "Hasn't been viewed before."
+#~ msgstr "Wurde vorher nicht gesehen."
+
+#~ msgid "Include Post/Page :"
+#~ msgstr "Artikel/Seiten einbeziehen:"
+
+#~ msgid "Both"
+#~ msgstr "Beide"
+
+#~ msgid "Page Only"
+#~ msgstr "Nur Seiten"
+
+#~ msgid "Posts &amp; Pages"
+#~ msgstr "Artikel &amp; Seiten"
+
+#~ msgid "Posts Only"
+#~ msgstr "Nur Artikel"
+
+#~ msgid "Pages Only"
+#~ msgstr "Nur Seiten"
+
+#~ msgid "Normal Views Ranking List"
+#~ msgstr "Rangliste Normal"
+
+#~ msgid "Robot Views Ranking List"
+#~ msgstr "Rangliste Suchmaschinen"
+
+#~ msgid "Visit Time Ranking List"
+#~ msgstr "Rangliste Besuchszeiten"
+
+#~ msgid "Visit Time"
+#~ msgstr "Besuchszeit"
+
+#~ msgid "Latest Robot Views"
+#~ msgstr "Zuletzt gesehen (Suchmaschinen)"
+
+#~ msgid "Oldest Normal Views"
+#~ msgstr "Älteste gesehen (Normal)"
+
+#~ msgid "Oldest Robot Views"
+#~ msgstr "Älteste gesehen (Suchmaschinen)"

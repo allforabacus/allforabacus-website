@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<!--[if IE 7 ]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html> <!--<![endif]-->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<title>ABACUS</title>
+    <script src="js/jquery-1.3.1.min.js"></script>
+	<script src="js/jquery.easing.1.3.js"></script>
+<script>
+
+$(document).ready(function() {
+
+	//Custom settings
+	var style_in = 'easeOutBounce';
+	var style_out = 'jswing';
+	var speed_in = 1000;
+	var speed_out = 300;	
+
+	//Calculation for corners
+	var neg = Math.round($('.qitem').width() / 2) * (-1);	
+	var pos = neg * (-1);	
+	var out = pos * 2;
+	
+	$('.qitem').each(function () {
+	
+		url = $(this).find('a').attr('href');
+		img = $(this).find('img').attr('src');
+		alt = $(this).find('img').attr('img');
+		
+		$('img', this).remove();
+		$(this).append('<div class="topLeft"></div><div class="topRight"></div><div class="bottomLeft"></div><div class="bottomRight"></div>');
+		$(this).children('div').css('background-image','url('+ img + ')');
+
+		$(this).find('div.topLeft').css({top:0, left:0, width:pos , height:pos});	
+		$(this).find('div.topRight').css({top:0, left:pos, width:pos , height:pos});	
+		$(this).find('div.bottomLeft').css({bottom:0, left:0, width:pos , height:pos});	
+		$(this).find('div.bottomRight').css({bottom:0, left:pos, width:pos , height:pos});	
+
+	}).hover(function () {
+	
+		$(this).find('div.topLeft').stop(false, true).animate({top:neg, left:neg}, {duration:speed_out, easing:style_out});	
+		$(this).find('div.topRight').stop(false, true).animate({top:neg, left:out}, {duration:speed_out, easing:style_out});	
+		$(this).find('div.bottomLeft').stop(false, true).animate({bottom:neg, left:neg}, {duration:speed_out, easing:style_out});	
+		$(this).find('div.bottomRight').stop(false, true).animate({bottom:neg, left:out}, {duration:speed_out, easing:style_out});	
+				
+	},
+	
+	function () {
+
+		$(this).find('div.topLeft').stop(false, true).animate({top:0, left:0}, {duration:speed_in, easing:style_in});	
+		$(this).find('div.topRight').stop(false, true).animate({top:0, left:pos}, {duration:speed_in, easing:style_in});	
+		$(this).find('div.bottomLeft').stop(false, true).animate({bottom:0, left:0}, {duration:speed_in, easing:style_in});	
+		$(this).find('div.bottomRight').stop(false, true).animate({bottom:0, left:pos}, {duration:speed_in, easing:style_in});	
+	
+	}).click (function () {
+		window.location = $(this).find('a').attr('href');	
+	});
+	
+	
+
+});
+
+</script>
+</head>
+
+<body>
+	<header>
+    	<div class="wrapper960">
+        	<div class="logo"><a href="index.html"><img src="images/abacus logo.png" width="36" height="32" align="left"/><img src="images/academy.png" align="left" style="padding-top:5px; padding-left:5px"></a></div>
+        	<nav>
+        		<a href="index.html">Home</a>
+            	<a href="ourteam.html">Our Team</a>
+            	<a href="activities.html">Activities</a>
+            	<a href="#" style="color:#205081">Gallery</a>
+            	<a href="helpdesk.html">Help Desk</a>
+          	<a href="contact.html">Contact</a>
+                <a href="http://blog.allforabacus.com/" style="color:#FF6600" title="Our Blog">Blog</a>
+        	</nav>
+        </div>
+    </header>
+
+	<div class="wrapper960">
+		<div id="gallery">
+			<div class="gallery-list">
+				<p style="font-size:18px; margin-top:15px; padding-left:30px; color:#666666">Gallery</p>
+					<div class="primary">
+						<div class="qitem">
+							<a href="gallery8.html"><img src="images/gallery/gallery/8.gif" alt="Test 1" title="" width="126" height="126"/></a>
+							<span class="caption"><h4>Command line foo</h4><p>21 January 2012<br />College Internet cafe</p></span>
+						</div>
+
+						<div class="qitem">
+							<a href="gallery7.html"><img src="images/gallery/gallery/7.gif" alt="Test 1" title="" width="126" height="126"/></a>
+							<span class="caption"><h4>webCon 2012!</h4><p>7 January 2012<br />College Auditorium & e-One hall</p></span>
+						</div>
+
+						<div class="qitem">
+							<a href="gallery6.html"><img src="images/gallery/gallery/6.gif" alt="Test 1" title="" width="126" height="126"/></a>
+							<span class="caption"><h4>Workshop on Play! and beagleBone</h4><p>20 December 2011<br />e-One hall</p></span>
+						</div>
+	
+						<div class="qitem">
+							<a href="gallery5.html"><img src="images/gallery/gallery/5.gif" alt="Test 1" title="" width="126" height="126"/></a>
+							<span class="caption"><h4>Workshop on Python + Embedded Systems</h4><p>20 December 2011<br />Trichur</p></span>
+						</div>
+
+						<div class="clear"></div>
+
+						<div class="qitem">
+							<a href="gallery4.html"><img src="images/gallery/gallery/4.gif" alt="Test 1" title="" width="126" height="126"/></a>
+							<span class="caption"><h4>Software Freedom Day Celebrations</h4><p>17 September, 2011<br />College Internet cafe</p></span>
+						</div>
+
+						<div class="qitem">
+							<a href="gallery3.html"><img src="images/gallery/gallery/3.gif" alt="Test 1" title="" width="126" height="126"/></a>
+							<span class="caption"><h4>Show-off Abacus</h4><p>20 August 2011<br />College Auditorium</p></span>
+						</div>
+
+
+						<div class="qitem">
+							<a href="gallery2.html"><img src="images/gallery/gallery/2.gif" alt="Test 1" title="" width="126" height="126"/></a>
+							<span class="caption"><h4>Talk on Entrepreneurship</h4><p>10 March 2011<br />College Auditorium</p></span>
+						</div>
+
+						<div class="qitem">
+							<a href="gallery1.html"><img src="images/gallery/gallery/1.gif" alt="Test 1" title="" width="126" height="126"/></a>
+							<span class="caption"><h4>ABACUS Inauguration Ceremony</h4><p>10 March 2011<br />College Auditorium</p></span>
+						</div>
+
+						<div class="clear"></div>
+					</div>
+			</div>
+		</div>
+	</div> 
+	
+
+	<div class="wrapper960">
+		<div id="gallery">
+			<div class="gallery-list">
+				<p style="font-size:18px; margin-top:15px; padding-left:30px; color:#666666">Gallery</p>
+					<div class="primary">
+						<div class="qitem">
+							<a href="gallery9.html"><img src="images/gallery/gallery/12.gif" alt="Test 1" title="" width="126" height="126"/></a>
+							<span class="caption"><h4>The Cloud comes to ABACUS!!</h4><p>21 July 2012<br />e-One Convention Center</p></span>
+						</div>
+
+						<div class="clear"></div>
+
+						
+					</div>
+			</div>
+		</div>
+	</div> 
+	
+
+
+
+	<footer>
+		<div class="footer-line1" >
+		</div>
+		<div class="footer-boxes">
+			<div id="pressFooter" class="rel_wrap" style="height:200px">
+                <div class="wrapper960">
+					<div class="logos">
+                    	<div class="col1">
+                        	<a href="helpdesk.html">
+                        	<div id="ico1" style="float:left"><img src="images/icon1.png" width="34" height="34"></div>
+                        	<div id="cont1" style="float:left">
+                        		 
+								<span class="icon1">Quick Links</span><br /><br /><hr/>
+								<p>NSS College of Engineering, Palakkad</p><hr />
+                                <p>allforabacus@googlegroups.com</p><hr/>
+                                <p>Blog.allforabacus.com</p><hr/>
+                                <p>&nbsp;</p>
+								<p><img src="images/view1.png" width="117" height="23"></p>
+                        	</div>
+                            </a>
+                        </div>
+                        
+						<div class="col2">
+                        	<a href="activities.html">
+                        	<div id="ico2" style="float:left"><img src="images/icon2.png" width="45" height="45"></div>
+                        	<div id="cont2" style="float:left">
+								<span class="icon2">Activities</span><br /><br /><hr/>
+								<p>Command line foo</p><hr />
+                                <p>webCon 2012!</p><hr/>
+                                <p>Workshop on Play! and beagleBone</p><hr/>
+                                <p>&nbsp;</p>
+                                <p>&nbsp;</p>
+                                <p><img src="images/view2.png" width="117" height="23"></p>
+                            </div>
+                            </a>
+						</div>
+						<div class="col3">
+                        	<a href="helpdesk.html">
+                        	<div id="ico3" style="float:left"><img src="images/icon3.png" width="34" height="34"></div>
+                        	<div id="cont3" style="float:left">
+								<span class="icon3"> Help Desk</span>
+								<p>&nbsp;</p>
+								<p>We share some files and links which may be useful to other students.</p>
+								<p>&nbsp;</p>
+								<p>&nbsp;</p>
+								<p><img src="images/view3.png" width="117" height="23"></p>
+							</div>
+                            </a>
+                        </div>
+                        <div class="col4">
+                        	<a href="contact.html">
+                        	<div id="ico4" style="float:left"><img src="images/icon4.png" width="33" height="33"></div>
+                        	<div id="cont4" style="float:left"><span class="icon4">Contact Us</span>
+							  <p>&nbsp;</p>
+							  <p>Say hi! We will hear &quot;ya&quot;!							  </p>
+							  <p>&nbsp;</p>
+							  <p>&nbsp;</p>
+							  <p>&nbsp;</p>
+								<p>&nbsp;</p>
+								<p><img src="images/view4.png" width="117" height="23"></p>
+							</div>
+                            </a>
+                        </div> 
+					</div>
+				</div>
+			</div>
+		</div>
+	
+		<div class="clear-line2">
+			<div class="wrapper960">
+                <p style="font-size:10px; float:left; padding-bottom:40px">© Copyright abacus_nssce 2012 </p>
+			</div>
+		</div>
+	</footer>
+</body>
+</html>
