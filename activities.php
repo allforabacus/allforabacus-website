@@ -47,9 +47,23 @@ He did a brilliant demonstration and hands on session of the exciting new <a hre
             <div class="activity-groups">
 				<div id="tabs2">
 					<ul>
+                                                <li><a href="#tabs-20">Free and Open-Source Software(FOSS) orientation talk</a></li>
 						<li><a href="#tabs-21">Cloud Computing Session by Eucalyptus</a></li>
 						<li><a href="#tabs-22">Talk on Entrepreneurship</a></li>
 					</ul>
+					<div id="tabs-20">
+                                                <p><h2>Free and Open-Source Software(FOSS) orientation talk</h2><br />
+                  <div class="date">(2 March 2013, e-One Convention Centre)</div><br /><br />
+                  <p>Talk delivered by Shafeeq Kunnakkadan of FyCSE, NSSCE on Free and open-source software.</p>
+                  <p><br />
+                    <a href="http://en.wikipedia.org/wiki/Free_and_open-source_software"><img src="images/activities/620px-gnu_and_tux-svg.png" width="482" height="250" alt="GNU/Linux"></a></p>           
+                  <p><br /> 
+                  </p>
+                  <p>The session was mainly intented for the first year students, to familiarize them with the idea of Free and Open source software. The session started off with Shafeeq explaining the beginning of free software movement and the birth of GNU/Linux. He then talked about the idea of Free software to the freshers and explained the difference between free software and open-source software. He covered the ethical as well as technological aspects of FOSS during his one hour long orientation session. He talked about the general misconception one might have regarding free sotware thinking of it as "free as in free beer" rather than "free as in freedom".</p>
+                  <br />
+                  <p>Shafeeq then explained about the technical possibilities of FOSS. He gave an introductory talk on Linux operating system for the first years. Shafeeq concluded the session after encouraging the students to start using Linux operating system and thereby exploring the amazing world of Free and Open-Source Software.</p>
+                                        </div>
+
 					<div id="tabs-21">
 						<p><h2>Cloud Computing Session by Eucalyptus</h2><br />
                   <div class="date">(21 July 2012, e-One Convention Centre)</div><br /><br />
