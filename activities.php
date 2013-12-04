@@ -14,9 +14,19 @@
             <div class="activity-groups">
 				<div id="tabs1">
 					<ul>
+						<li><a href="#tabs-10">Programming as engineering workshop</a></li>
 						<li><a href="#tabs-11">Workshop on Play! and BeagleBone</a></li>
 						<li><a href="#tabs-12">Beginner Workshop on Python + Embedded Systems</a></li>
 					</ul>
+					 <div id="tabs-10">
+                        <p><h2>Programming as engineering workshop</h2><br />
+                  <div class="date">(19, 20 July 2013, eOne conference hall, NSSCE)</div><br /><br />
+                  <p>A workshop was conducted by <a href="http://nibrahim.net.in">Noufal Ibrahim</a>, founder of PyCon India, freelance programmer and trainer. </p><br />
+
+<p>The workshop covered the topics like data structures, optimization, UNIX, higher order functions etc.</p><br />
+<p><br/>It was a two day hands on workshop that gave the students a better insight about data structures, optimization and generally programming. Abacusians had a lot of fun playing around on their command line.</p>
+                    </div>
+
 					<div id="tabs-11">
 						<p><h2>Workshop on Play! and beagleBone</h2><br />
                         <div class="date">(20 December 2011, e-One hall)</div><br /><br />
@@ -40,6 +50,7 @@ He did a brilliant demonstration and hands on session of the exciting new <a hre
 <p><br />The workshop gave students a peep into the amazing possibilities offered by Free Software and Open Hardware. It was a beginner level workshop and 15 students were participated.</p>
 					</div>
 				</div>
+
 			</div>
             
             <div class="title-2">Tech Talks</div>
@@ -47,12 +58,21 @@ He did a brilliant demonstration and hands on session of the exciting new <a hre
             <div class="activity-groups">
 				<div id="tabs2">
 					<ul>
-                                                <li><a href="#tabs-20">Free and Open-Source Software(FOSS) orientation talk</a></li>
+						<li><a href="#tabs-23">Swatanthra Malayalam Computing</a></li>
+                        <li><a href="#tabs-20">Free and Open-Source Software(FOSS) orientation talk</a></li>
 						<li><a href="#tabs-21">Cloud Computing Session by Eucalyptus</a></li>
 						<li><a href="#tabs-22">Talk on Entrepreneurship</a></li>
 					</ul>
+					<div id="tabs-23">
+                    <p><h2>Swatanthra Malayalam Computing  - Talk on Free software, Language computing and Inkscape</h2><br />
+                  <div class="date">(28 September 2013, e-One Convention Centre)</div><br /><br />
+                  <p>Talks delivered by <a href="http://ershadk.in">Ershad Kunnakkadan</a>, a Bangalore based software professional and an active open source contributor on language computing and by <a href="http://arkarjun.wordpress.com">Arjun</a> on Inkscape</p>
+				  <p>As a part of SMC's 12th year anniversary celebrations, a talk on Language computing and free software was conducted. The first talk was delivered by Ershad K on free software and Language computing. Later, Alfas from S3ME delivered a talk on fonts and malayalam typing. Followed by this was a session on Designing using Inkscape by Ark Arjun.</p>
+                  <br />
+                    </div>
+
 					<div id="tabs-20">
-                                                <p><h2>Free and Open-Source Software(FOSS) orientation talk</h2><br />
+                    <p><h2>Free and Open-Source Software(FOSS) orientation talk</h2><br />
                   <div class="date">(2 March 2013, e-One Convention Centre)</div><br /><br />
                   <p>Talk delivered by Shafeeq Kunnakkadan of FyCSE, NSSCE on Free and open-source software.</p>
                   <p><br />
@@ -62,7 +82,7 @@ He did a brilliant demonstration and hands on session of the exciting new <a hre
                   <p>The session was mainly intented for the first year students, to familiarize them with the idea of Free and Open source software. The session started off with Shafeeq explaining the beginning of free software movement and the birth of GNU/Linux. He then explained the difference between free software and open-source software and also covered the ethical as well as technological aspects of FOSS during his one hour long orientation session. He talked about the general misconception one might have regarding free sotware thinking of it as "free as in free beer" rather than "free as in freedom".</p>
                   <br />
                   <p>Shafeeq then explained about the technical possibilities of FOSS. He gave an introductory talk on Linux operating system for the first years. Shafeeq concluded the session after encouraging the students to start using Linux operating system and thereby exploring the amazing world of Free and Open-Source Software.</p>
-                                        </div>
+                    </div>
 
 					<div id="tabs-21">
 						<p><h2>Cloud Computing Session by Eucalyptus</h2><br />
